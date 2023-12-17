@@ -29,3 +29,8 @@ In meiner Analyse habe ich verschiedene Möglichkeiten besprochen, wie Organisat
 - **Sicherheitsbewusstsein:** Schulungen für Entwickler, um das Bewusstsein für aktuelle Bedrohungen zu schärfen und sicherheitsrelevante Praktiken zu fördern.
 
 Diese Erkenntnisse sollen als Grundlage dienen, um eine umfassende Sicherheitsstrategie für die Programmierung und Entwicklung zu entwickeln. Das Ziel ist es, die Integrität von Codes, die Vertraulichkeit von Daten und die Verfügbarkeit von Anwendungen sicherzustellen.
+
+
+#HZ 2
+
+##Sicherheitslücken und ihre Ursachen in einer Applikation erkennen können. Gegenmassnahmen vorschlagen und implementieren können.
