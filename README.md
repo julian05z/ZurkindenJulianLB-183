@@ -58,3 +58,14 @@ Durch die Verwendung der Bedingung '1'='1' wird die Abfrage immer wahr sein, was
 ### Beispiel an der Applikation:
 
 ![video](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/cb4df52f-faee-4c14-9712-f4988e357617.gif)
+
+Um die Sicherheitslücke zu beheben, sollte man Parameter verwenden, anstatt die Benutzereingaben direkt in die SQL-Abfrage einzufügen.
+
+``` csharp
+string sql = "SELECT * FROM Users WHERE username = @Username AND password = @Password";
+
+var usernameParam = new SqlParameter("@Username", request.Username);
+var passwordParam = new SqlParameter("@Password", MD5Helper.ComputeMD5Hash(request.Password));
+
+User? user = _context.Users.FromSqlRaw(sql, usernameParam, passwordParam).FirstOrDefault();
+```
