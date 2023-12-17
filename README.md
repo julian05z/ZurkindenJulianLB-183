@@ -69,3 +69,8 @@ var passwordParam = new SqlParameter("@Password", MD5Helper.ComputeMD5Hash(reque
 
 User? user = _context.Users.FromSqlRaw(sql, usernameParam, passwordParam).FirstOrDefault();
 ```
+Nach dem schliessen dieser Sicherheitslücke:
+
+
+
+![video](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/4d9f644d-1c29-499e-94a0-311880076ca9.gif)
