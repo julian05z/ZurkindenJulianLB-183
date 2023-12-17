@@ -54,3 +54,8 @@ Angenommen, ein Angreifer gibt im Benutzernamenfeld den Wert ' OR '1'='1' -- ein
   SELECT * FROM Users WHERE username = '' OR '1'='1' --' AND password = '...'
 ```
 Durch die Verwendung der Bedingung '1'='1' wird die Abfrage immer wahr sein, was dazu führt, dass alle Benutzerdaten zurückgegeben werden, anstatt nur den richtigen Benutzer zu authentifizieren. Dies ermöglicht einem Angreifer den Zugriff auf das System, ohne das korrekte Passwort zu kennen.
+
+### Beispiel an der Applikation:
+
+https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/2ed278a2-5e4b-4817-afbf-b8036a7de848
+
