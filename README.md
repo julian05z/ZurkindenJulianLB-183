@@ -18,12 +18,14 @@ Ich habe genau untersucht, wie sich diese Bedrohungen auf verschiedene Arten von
 
 In meiner Analyse habe ich verschiedene Möglichkeiten besprochen, wie Organisationen und Einzelpersonen sich vor den genannten Gefahren schützen können. Diese Maßnahmen umfassen:
 
-- **Firewalls:** Verwendung von Firewalls zur Überwachung und Steuerung des Datenverkehrs, um unerlaubten Zugriff zu verhindern.
+- **Code-Reviews:** Regelmäßige Überprüfung des Programmiercodes durch Teammitglieder, um potenzielle Schwachstellen und Sicherheitslücken zu identifizieren.
 
-- **Antivirensoftware:** Nutzung von Antivirensoftware, um schädliche Programme zu erkennen und zu entfernen, und somit die Systemsicherheit zu gewährleisten.
+- **Sichere Programmierpraktiken:** Einhaltung bewährter Methoden beim Schreiben von Code, um Sicherheitsrisiken zu minimieren. Dazu gehören das Validieren von Benutzereingaben, die Verwendung sicherer Bibliotheken und das Prinzip des "Least Privilege".
 
-- **Sicherheitsprotokolle:** Implementierung spezieller Kommunikationsregeln und -verfahren, um die Sicherheit der Datenübertragung zu verbessern.
+- **Automatisierte Tests:** Implementierung von automatisierten Tests, um sicherzustellen, dass Änderungen im Code die Sicherheits- und Funktionsintegrität nicht beeinträchtigen.
 
-- **Benutzerschulungen:** Schulungen für Benutzer, um das Bewusstsein für potenzielle Gefahren zu schärfen und deren Beitrag zur Sicherheit zu stärken.
+- **Regelmäßige Software-Updates:** Aktualisierung von Entwicklungsumgebungen, Frameworks und Bibliotheken, um von den neuesten Sicherheitspatches zu profitieren.
 
-Die Erkenntnisse aus meiner Analyse sollen als Grundlage für die Entwicklung einer umfassenden Sicherheitsstrategie dienen. Diese Strategie zielt darauf ab, die Integrität, Vertraulichkeit und Verfügbarkeit von Systemen und Netzwerken sicherzustellen und somit eine robuste Verteidigung gegen Cyberbedrohungen zu gewährleisten.
+- **Sicherheitsbewusstsein:** Schulungen für Entwickler, um das Bewusstsein für aktuelle Bedrohungen zu schärfen und sicherheitsrelevante Praktiken zu fördern.
+
+Diese Erkenntnisse sollen als Grundlage dienen, um eine umfassende Sicherheitsstrategie für die Programmierung und Entwicklung zu entwickeln. Das Ziel ist es, die Integrität von Codes, die Vertraulichkeit von Daten und die Verfügbarkeit von Anwendungen sicherzustellen.
