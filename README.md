@@ -39,3 +39,18 @@ Ich habe mich in meinem fall auf sicherheits lücken beim Login/Authentifirzieru
 
 ![grafik](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/6d864f0d-82d3-4122-a5ef-3742d108b3fe)
 
+Die Sicherheitslücke in diesem Code liegt in der Art und Weise, wie die SQL-Abfrage zusammengesetzt wird. Hier wird die string.Format-Methode verwendet, um die Benutzereingaben direkt in die SQL-Abfrage einzufügen.
+
+``` csharp
+string sql = string.Format("SELECT * FROM Users WHERE username = '{0}' AND password = '{1}'", 
+    request.Username, 
+    MD5Helper.ComputeMD5Hash(request.Password));
+```
+Das Problem dabei ist, dass diese Vorgehensweise anfällig für SQL-Injections ist. Ein Angreifer könnte speziell gestaltete Benutzereingaben verwenden, um die SQL-Abfrage zu manipulieren und unerwünschte Aktionen auszuführen.
+
+Angenommen, ein Angreifer gibt im Benutzernamenfeld den Wert ' OR '1'='1' -- ein. Die SQL-Abfrage würde dann wie folgt aussehen:
+
+``` sql
+  SELECT * FROM Users WHERE username = '' OR '1'='1' --' AND password = '...'
+```
+
