@@ -57,10 +57,4 @@ Durch die Verwendung der Bedingung '1'='1' wird die Abfrage immer wahr sein, was
 
 ### Beispiel an der Applikation:
 
-
-
-
-
-![Video](https://github.com/julian05z/ZurkindenJulianLB-183/raw/main/assets/89130623/4e83f418-95de-4dad-8bb8-9aa229caa981.gif)
-
-
+![2023-12-17-18-43-48-Kopie](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/cb4df52f-faee-4c14-9712-f4988e357617)
