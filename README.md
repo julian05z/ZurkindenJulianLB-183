@@ -98,7 +98,12 @@ Wenn man sich nun das nächste Mal einloggen möchte, muss man sein normales Log
 
 <img width="1279" alt="ScreenAuthentifizierung" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/6e26ac8e-27dd-4feb-9098-19d6d5147ea9">
 
-##
+
+
+
+
+
+
 
 Wichtige Code ausschnitte von der Implementierung:
 
