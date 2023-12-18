@@ -257,3 +257,5 @@ In der konsole sind nun die Log Informationen ersichtlich
 
 
 ![screenshotHZ5](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/0ceec89e-7c09-4556-8c59-ef5607491749)
+
+![screeenhz5sucess](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/9541da29-60d4-41c9-bdbd-ba0c6062973b)
