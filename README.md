@@ -84,18 +84,18 @@ Die Applikation wurde mit einer Zwei-Faktor-Authentifizierung ausgestattet, die 
 
 Der Benutzer muss sich zuerst als Administrator einloggen. Anschließend kann die Zwei-Faktor-Authentifizierung unter "Enable 2FA" aktiviert werden.
 
-<img width="783" alt="screen2authenti" src="https://github.com/julian05z/ZurkindenJulianLB-183/raw/main/assets/89130623/4042ef56-cdcb-4e49-b2dc-c3bbb011569a">
+<img width="783" alt="screen2authenti" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/4042ef56-cdcb-4e49-b2dc-c3bbb011569a">
 
 Ein QR-Code wird generiert.
 
-<img width="800" alt="qrcode" src="https://github.com/julian05z/ZurkindenJulianLB-183/raw/main/assets/89130623/18d574ba-a9b6-4ec4-bad7-1b4c5a220967">
+<img width="800" alt="qrcode" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/18d574ba-a9b6-4ec4-bad7-1b4c5a220967">
 
 Diesen kann man nun mit der Google Authenticator App scannen. Wie man hier sieht, wird nun ein Code generiert, der sich alle 30 Sekunden ändert.
 
-<img width="337" alt="screeenhandy" src="https://github.com/julian05z/ZurkindenJulianLB-183/raw/main/assets/89130623/82c47512-6f1f-42c9-b9eb-34746a6264c4">
+<img width="337" alt="screeenhandy" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/82c47512-6f1f-42c9-b9eb-34746a6264c4">
 
 Wenn man sich nun das nächste Mal einloggen möchte, muss man sein normales Login verwenden und den gültigen Code der Authenticator-App.
 
-<img width="1279" alt="ScreenAuthentifizierung" src="https://github.com/julian05z/ZurkindenJulianLB-183/raw/main/assets/89130623/6e26ac8e-27dd-4feb-9098-19d6d5147ea9">
+<img width="1279" alt="ScreenAuthentifizierung" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/6e26ac8e-27dd-4feb-9098-19d6d5147ea9">
 
 
