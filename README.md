@@ -159,4 +159,5 @@ if (!_userService.IsAdmin() && _userService.GetUserId() != news.AuthorId)
 }
 
 ```
+Der Codeabschnitt zeigt die Autorisierung in einer Applikation. Es überprüft, ob der aktuelle Benutzer die erforderlichen Berechtigungen hat, um eine bestimmte Aktion durchzuführen. In diesem Fall wird überprüft, ob der Benutzer entweder ein Administrator ist oder der ursprüngliche Autor des News-Eintrags, den er aktualisieren möchte. Wenn diese Bedingungen nicht erfüllt sind, wird ein Forbidden-Status zurückgegeben, was bedeutet, dass der Zugriff verweigert wird.
 
