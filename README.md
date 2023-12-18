@@ -74,3 +74,16 @@ Nach dem schliessen dieser Sicherheitslücke:
 
 
 ![video](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/4d9f644d-1c29-499e-94a0-311880076ca9.gif)
+
+
+# HZ 3
+
+## Mechanismen für die Authentifizierung und Autorisierung umsetzen 
+
+Der BEnutzer muss sich zuerst als zb Admin einloggen. Anschliesend kann man unter Enable 2Fa die 2FA aktivieren. Ein QR code wird generiert. Diesen kann man nun mit der Google Authenticator app scannen.
+
+
+<img width="783" alt="screen2authenti" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/4042ef56-cdcb-4e49-b2dc-c3bbb011569a">
+<img width="1279" alt="ScreenAuthentifizierung" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/6e26ac8e-27dd-4feb-9098-19d6d5147ea9">
+![WhatsApp Image 2023-12-18 at 16 20 41](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/b90fb8fd-1dfc-4ab7-80ff-f5cd5d49f7bc)
+<img width="800" alt="qrcode" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/18d574ba-a9b6-4ec4-bad7-1b4c5a220967">
