@@ -161,3 +161,52 @@ if (!_userService.IsAdmin() && _userService.GetUserId() != news.AuthorId)
 ```
 Der Codeabschnitt zeigt die Autorisierung in einer Applikation. Es überprüft, ob der aktuelle Benutzer die erforderlichen Berechtigungen hat, um eine bestimmte Aktion durchzuführen. In diesem Fall wird überprüft, ob der Benutzer entweder ein Administrator ist oder der ursprüngliche Autor des News-Eintrags, den er aktualisieren möchte. Wenn diese Bedingungen nicht erfüllt sind, wird ein Forbidden-Status zurückgegeben, was bedeutet, dass der Zugriff verweigert wird.
 
+
+# HZ 4
+
+## Sicherheitsrelevante Aspekte bei Entwurf, Implementierung und Inbetriebnahme berücksichtigen.
+
+Menschen neigen dazu, Fehler zu machen. Unachtsamkeit, Unwissenheit oder Nachlässigkeit können zu Sicherheitslücken führen. Beispiele sind das Verwenden schwacher Passwörter, das Öffnen von Phishing-E-Mails oder das Vernachlässigen von Sicherheitsrichtlinien. In meinem Fall habe ich mich auf schwache Passwörter fokussiert. Dabei habe ich eine Funktion in meiner Applikation, die bestimmte Voraussetzungen verlangt, um ein neues Passwort zu erstellen.
+
+### Codeausschnitt:
+
+``` csharp
+
+private string validateNewPasswort(string newPassword)
+{
+    // Check small letter.
+    string patternSmall = "[a-zäöü]";
+    Regex regexSmall = new Regex(patternSmall);
+    bool hasSmallLetter = regexSmall.Match(newPassword).Success;
+
+    string patternCapital = "[A-ZÄÖÜ]";
+    Regex regexCapital = new Regex(patternCapital);
+    bool hasCapitalLetter = regexCapital.Match(newPassword).Success;
+
+    string patternNumber = "[0-9]";
+    Regex regexNumber = new Regex(patternNumber);
+    bool hasNumber = regexNumber.Match(newPassword).Success;
+
+    List<string> result = new List<string>();
+    if (!hasSmallLetter)
+    {
+        result.Add("keinen Kleinbuchstaben");
+    }
+    if (!hasCapitalLetter)
+    {
+        result.Add("keinen Grossbuchstaben");
+    }
+    if (!hasNumber)
+    {
+        result.Add("keine Zahl");
+    }
+
+    if (result.Count > 0)
+    {
+        return "Das Passwort beinhaltet " + string.Join(", ", result);
+    }
+    return "";
+}
+
+```
+
