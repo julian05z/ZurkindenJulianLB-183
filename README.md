@@ -98,4 +98,33 @@ Wenn man sich nun das nächste Mal einloggen möchte, muss man sein normales Log
 
 <img width="1279" alt="ScreenAuthentifizierung" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/6e26ac8e-27dd-4feb-9098-19d6d5147ea9">
 
+Wichtige Code ausschnitte von der Implementierung:
+
+``` csharp
+public ActionResult<Auth2FADto> Enable2FA()
+{
+    var user = _context.Users.Find(_userService.GetUserId());
+    if (user == null)
+    {
+        return NotFound(string.Format("User {0} not found", _userService.GetUsername()));
+    }
+    {
+        var secretKey = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 10);
+        string userUniqueKey = user.Username + secretKey;
+        string issuer = _configuration.GetSection("Jwt:Issuer").Value!;
+        TwoFactorAuthenticator authenticator = new TwoFactorAuthenticator();
+        SetupCode setupInfo = authenticator.GenerateSetupCode(issuer, user.Username, userUniqueKey, false, 3);
+
+        user.SecretKey2FA = secretKey;
+        _context.Update(user);
+        _context.SaveChanges();
+
+        Auth2FADto auth2FADto = new Auth2FADto();
+        auth2FADto.QrCodeSetupImageUrl = setupInfo.QrCodeSetupImageUrl;
+
+        return Ok(auth2FADto);
+    }
+}
+```
+
 
