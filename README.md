@@ -149,3 +149,14 @@ return Ok(CreateToken(user));
 
 In diesem Codeabschnitt wird überprüft, ob der Benutzer die Zwei-Faktor-Authentifizierung (2FA) aktiviert hat. Falls ja, wird der eingegebene 2FA-Schlüssel (UserKey) validiert.
 
+## Autorisierung
+
+``` csharp
+
+if (!_userService.IsAdmin() && _userService.GetUserId() != news.AuthorId)
+{
+    return Forbid();
+}
+
+```
+
