@@ -214,3 +214,46 @@ private string validateNewPasswort(string newPassword)
 
 
 ![screeenHZ4](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/f498abb2-9c52-4c09-8042-da6e3679d2cb)
+
+
+# HZ 5
+
+## Informationen für Auditing und Logging generieren. Auswertungen und Alarme definieren und implementieren.
+
+Durch das Hinzufügen von Logging-Nachrichten können Entwickler und Administratoren wichtige Ereignisse in der Anwendung überwachen. Diese Protokolle sind besonders nützlich beim Debuggen, bei der Überwachung der Anwendungsleistung und bei der Identifizierung von Problemen oder Sicherheitsvorfällen. Sie bieten Einblicke in das Geschehen der Anwendung und erleichtern die Nachverfolgung von Aktivitäten im System.
+
+### Codeausschnitt:
+
+``` csharp 
+
+public ActionResult<User> Login(LoginDto request)
+{
+    if (request == null || request.Username.IsNullOrEmpty() || request.Password.IsNullOrEmpty())
+    {
+        return BadRequest();
+    }
+    string username = request.Username;
+    string passwordHash = MD5Helper.ComputeMD5Hash(request.Password);
+
+    User? user = _context.Users
+        .Where(u => u.Username == username)
+        .Where(u => u.Password == passwordHash)
+        .FirstOrDefault();
+
+    if (user == null)
+    {
+        _logger.LogWarning($"login failed for user '{request.Username}'");
+        return Unauthorized("login failed");
+    }
+
+    _logger.LogInformation($"login successful for user '{request.Username}'");
+    return Ok(CreateToken(user));
+}
+
+```
+
+In der konsole sind nun die Log Informationen ersichtlich
+
+
+
+![screenshotHZ5](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/0ceec89e-7c09-4556-8c59-ef5607491749)
