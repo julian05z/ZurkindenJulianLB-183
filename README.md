@@ -101,11 +101,7 @@ Wenn man sich nun das nächste Mal einloggen möchte, muss man sein normales Log
 
 
 
-
-
-
-
-Wichtige Code ausschnitte von der Implementierung:
+### Wichtige Code ausschnitte von der Implementierung:
 
 ``` csharp
 public ActionResult<Auth2FADto> Enable2FA()
