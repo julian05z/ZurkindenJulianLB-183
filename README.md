@@ -88,4 +88,4 @@ Der BEnutzer muss sich zuerst als zb Admin einloggen. Anschliesend kann man unte
 
 
 <img width="800" alt="qrcode" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/18d574ba-a9b6-4ec4-bad7-1b4c5a220967">
-<img width="800" alt="WhatsApp Image 2023-12-18 at 16 20 41" src="https://github.com/julian05z/ZurkindenJulianLB-183/raw/main/assets/89130623/18d574ba-a9b6-4ec4-bad7-1b4c5a220967.png">
+<img width="337" alt="screeenhandy" src="https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/82c47512-6f1f-42c9-b9eb-34746a6264c4">
