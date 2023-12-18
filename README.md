@@ -129,5 +129,23 @@ public ActionResult<Auth2FADto> Enable2FA()
     }
 }
 ```
+Die Enable2FA-Methode im Code aktiviert die Zwei-Faktor-Authentifizierung für einen Benutzer, indem sie einen neuen geheimen Schlüssel generiert und einen QR-Code für die Authentifizierungs-App erstellt.
 
+``` csharp
+if (user.SecretKey2FA != null)
+{
+    string secretKey = user.SecretKey2FA;
+    string userUniqueKey = user.Username + secretKey;
+    TwoFactorAuthenticator authenticator = new TwoFactorAuthenticator();
+    bool isAuthenticated = authenticator.ValidateTwoFactorPIN(userUniqueKey, request.UserKey);
+    if (!isAuthenticated)
+    {
+        return Unauthorized("login failed");
+    }
+}
+
+return Ok(CreateToken(user));
+```
+
+In diesem Codeabschnitt wird überprüft, ob der Benutzer die Zwei-Faktor-Authentifizierung (2FA) aktiviert hat. Falls ja, wird der eingegebene 2FA-Schlüssel (UserKey) validiert.
 
