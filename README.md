@@ -19,7 +19,7 @@ Ransomware, oder Erpressungstrojaner, bedroht die Sicherheit von Computern durch
 
 Gefälschte Drohmails von Behörden, auch als Fake Extortion E-Mails bekannt, täuschen vor, dass die angeschriebene Person schwerwiegende strafrechtliche Vergehen begangen habe. Die Anklage könne angeblich nur durch eine Geldzahlung fallengelassen werden.
 
-Vorgehensweise:**
+**Vorgehensweise:**
 Der Empfänger wird oft fälschlicherweise beschuldigt. Eine Frist wird gesetzt, um eine schriftliche Begründung per E-Mail einzureichen. Das Opfer wird zur Zahlung einer Kaution aufgefordert, um einer angeblichen Verhaftung zu entgehen. Die E-Mail täuscht durch offizielle Aufmachung vor, von Strafverfolgungsbehörden wie fedpol, Europol, Interpol oder einer kantonalen Polizei zu stammen. Absender und Dokumente sind jedoch gefälscht, und die Kommunikation erfolgt über private E-Mail-Adressen.
 
 Schutzmaßnahmen:
@@ -32,13 +32,10 @@ Schutzmaßnahmen:
 **Risiken:**
 Meldungen zu betrügerischen Jobangeboten, die über Messaging-Dienste wie WhatsApp verbreitet werden. Angebliche Recruiting-Firmen locken mit unrealistischen Verdienstversprechen.
 
-**Vorgehensweise:**
-In gefälschten Stellenangeboten erfolgt der Erstkontakt über soziale Netzwerke, E-Mails oder Jobbörsen. Der Bewerbungsprozess wird dann über Instant Messaging fortgesetzt, wobei Bewerber mit überhöhten Verdienstversprechen angelockt werden. Die Aufgaben, wie das Verfassen von Bewertungen oder der Kauf von Produkten, stehen in keinem angemessenen Verhältnis zu den versprochenen Verdiensten. Nach der Rekrutierung werden Bewerber auf eine oft gefälschte Plattform weitergeleitet, wo angebliche "Lohnzahlungen" und "Prämien" abgerechnet werden sollen.
-
 Schutzmaßnahmen:
-1. *Ignorieren Sie betrügerische Nachrichten:* Beachten Sie Nachrichten mit unrealistischen Stellenangeboten nicht.
-2. *Blockieren und Melden:* Nutzen Sie die in der Anwendung verfügbaren Funktionen zum Blockieren und Melden von betrügerischen Nachrichten.
-3. *Anzeige bei finanziellen Schäden:* Bei finanziellen Schäden empfiehlt das NCSC, Anzeige bei den kantonalen Strafverfolgungsbehörden zu erstatten.
+1. Ignorieren Sie betrügerische Nachrichten:* Beachten Sie Nachrichten mit unrealistischen Stellenangeboten nicht.
+2. Blockieren und Melden:* Nutzen Sie die in der Anwendung verfügbaren Funktionen zum Blockieren und Melden von betrügerischen Nachrichten.
+3. Anzeige bei finanziellen Schäden:* Bei finanziellen Schäden empfiehlt das NCSC, Anzeige bei den kantonalen Strafverfolgungsbehörden zu erstatten.
 
 
 
