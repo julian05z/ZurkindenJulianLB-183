@@ -15,9 +15,9 @@ In der heutigen zunehmend vernetzten Welt sind Unternehmen und individuelle Benu
 Ransomware, oder Erpressungstrojaner, bedroht die Sicherheit von Computern durch die Verschlüsselung von Dateien. Sie gelangt oft über unsichere Systeme und infizierte E-Mail-Anhänge in die Systeme.
 
 #### Schutzmaßnahmen:
-1. Sofortige Systemneuaufsetzung:* Im Falle einer Infektion sollte das betroffene System umgehend neu aufgesetzt werden, um die Ransomware zu entfernen.
-2. Datenwiederherstellung aus Backups:* Wichtige Daten sollten aus zuverlässigen Backups wiederhergestellt werden, um den Verlust zu minimieren.
-3. Fachkundige Unterstützung:* Bei mangelnden Fachkenntnissen ist die Hilfe von Experten oder spezialisierten Unternehmen erforderlich, um die Bedrohung wirksam zu bekämpfen.
+1. Sofortige Systemneuaufsetzung: Im Falle einer Infektion sollte das betroffene System umgehend neu aufgesetzt werden, um die Ransomware zu entfernen.
+2. Datenwiederherstellung aus Backups: Wichtige Daten sollten aus zuverlässigen Backups wiederhergestellt werden, um den Verlust zu minimieren.
+3. Fachkundige Unterstützung: Bei mangelnden Fachkenntnissen ist die Hilfe von Experten oder spezialisierten Unternehmen erforderlich, um die Bedrohung wirksam zu bekämpfen.
 
 ### Gefälschte Drohmails von Behörden: Betrug erkennen und schützen
 
@@ -27,8 +27,8 @@ Gefälschte Drohmails von Behörden, auch als Fake Extortion E-Mails bekannt, t�
 Der Empfänger wird oft fälschlicherweise beschuldigt. Eine Frist wird gesetzt, um eine schriftliche Begründung per E-Mail einzureichen. Das Opfer wird zur Zahlung einer Kaution aufgefordert, um einer angeblichen Verhaftung zu entgehen. Die E-Mail täuscht durch offizielle Aufmachung vor, von Strafverfolgungsbehörden wie fedpol, Europol, Interpol oder einer kantonalen Polizei zu stammen. Absender und Dokumente sind jedoch gefälscht, und die Kommunikation erfolgt über private E-Mail-Adressen.
 
 Schutzmaßnahmen:
-1. Ignorieren Sie Fake-Extortion-E-Mails:* Lassen Sie sich nicht einschüchtern und reagieren Sie nicht auf unbegründete Forderungen.
-2. Wenden Sie sich an die Polizei:* Bei Unsicherheit sollten Sie sich direkt an die Polizei wenden, um die Echtheit der erhaltenen Nachricht zu überprüfen.
+1. Ignorieren Sie Fake-Extortion-E-Mails: Lassen Sie sich nicht einschüchtern und reagieren Sie nicht auf unbegründete Forderungen.
+2. Wenden Sie sich an die Polizei: Bei Unsicherheit sollten Sie sich direkt an die Polizei wenden, um die Echtheit der erhaltenen Nachricht zu überprüfen.
 
 
 ### Betrügerische Jobangebote: Erkennen und Schützen
@@ -37,9 +37,9 @@ Schutzmaßnahmen:
 Meldungen zu betrügerischen Jobangeboten, die über Messaging-Dienste wie WhatsApp verbreitet werden. Angebliche Recruiting-Firmen locken mit unrealistischen Verdienstversprechen.
 
 Schutzmaßnahmen:
-1. Ignorieren Sie betrügerische Nachrichten:* Beachten Sie Nachrichten mit unrealistischen Stellenangeboten nicht.
-2. Blockieren und Melden:* Nutzen Sie die in der Anwendung verfügbaren Funktionen zum Blockieren und Melden von betrügerischen Nachrichten.
-3. Anzeige bei finanziellen Schäden:* Bei finanziellen Schäden empfiehlt das NCSC, Anzeige bei den kantonalen Strafverfolgungsbehörden zu erstatten.
+1. Ignorieren Sie betrügerische Nachrichten: Beachten Sie Nachrichten mit unrealistischen Stellenangeboten nicht.
+2. Blockieren und Melden: Nutzen Sie die in der Anwendung verfügbaren Funktionen zum Blockieren und Melden von betrügerischen Nachrichten.
+3. Anzeige bei finanziellen Schäden: Bei finanziellen Schäden empfiehlt das NCSC, Anzeige bei den kantonalen Strafverfolgungsbehörden zu erstatten.
 
 ### Kritische Beurteiliung
 
