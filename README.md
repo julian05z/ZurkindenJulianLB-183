@@ -268,6 +268,8 @@ public ActionResult<User> Login(LoginDto request)
         .Where(u => u.Password == passwordHash)
         .FirstOrDefault();
 
+//Hier wird das Logging implementiert
+
     if (user == null)
     {
         _logger.LogWarning($"login failed for user '{request.Username}'");
