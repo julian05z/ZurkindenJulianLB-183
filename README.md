@@ -177,6 +177,11 @@ if (!_userService.IsAdmin() && _userService.GetUserId() != news.AuthorId)
 Der Codeabschnitt zeigt die Autorisierung in einer Applikation. Es überprüft, ob der aktuelle Benutzer die erforderlichen Berechtigungen hat, um eine bestimmte Aktion durchzuführen. In diesem Fall wird überprüft, ob der Benutzer entweder ein Administrator ist oder der ursprüngliche Autor des News-Eintrags, den er aktualisieren möchte. Wenn diese Bedingungen nicht erfüllt sind, wird ein Forbidden-Status zurückgegeben, was bedeutet, dass der Zugriff verweigert wird.
 
 
+### Kritische Bewertung
+
+In meinem Projekt erläutere ich die Zwei-Faktor-Authentifizierung für sichere Anmeldungen sowie die Autorisierung für die Delete-Funktion, um sicherzustellen, dass nur Administratoren bestimmte Aktionen durchführen können. Des Weiteren demonstriere ich die praktische Anwendung von JWTs, wie im Modul besprochen, als effizientes Mittel zur Authentifizierung und Autorisierung in der Anwendung. Es besteht auch die Möglichkeit, beide Ansätze kombiniert einzusetzen.
+
+
 # HZ 4
 
 ## Sicherheitsrelevante Aspekte bei Entwurf, Implementierung und Inbetriebnahme berücksichtigen.
