@@ -39,7 +39,7 @@ Schutzmaßnahmen:
 
 ### Kritische Beurteiliung
 
-Die oben aufgezeigten BEdrohungen sind nur die aktuellen Top bedrohungen in diesem Monat. Es gibt noch viele weitere Bedrohungen in der Cybersicherheit https://www.ncsc.admin.ch/ncsc/de/home/cyberbedrohungen.html
+Die oben aufgezeigten Bedrohungen und Schutzmaßnahmen sind nur die aktuellen Top-Bedrohungen in diesem Monat. Es gibt noch viele weitere Bedrohungen in der Cybersicherheit. [Hier](https://www.ncsc.admin.ch/ncsc/de/home/cyberbedrohungen.html) finden Sie weitere Informationen.
 
 # HZ 2
 
