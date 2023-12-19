@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Mit diesem E-Portfolio werde ich das erreichen der Handlungziele vom Modul 183 nachweisen. Für jedes handlugsziel gibt es einen abschnitt. In jedem Abschnitt wird ein Artefakt aufgezeigt und erklärt der das erreichen des Handlugsziels beweist. Dazu gehören die Analyse aktueller Bedrohungen, die Identifizierung und Behebung von Sicherheitslücken, die Implementierung von Mechanismen für Authentifizierung und Autorisierung, die Berücksichtigung sicherheitsrelevanter Aspekte sowohl im Entwurf als auch in der Implementierung, sowie die Generierung von Informationen für Logging.
+Mit diesem E-Portfolio werde ich das Erreichen der Handlungsziele im Modul 183 nachweisen. Für jedes Handlungsziel gibt es einen Abschnitt. In jedem Abschnitt wird ein Artefakt aufgezeigt und erklärt, der das Erreichen des Handlungsziels belegt. Dazu gehören die Analyse aktueller Bedrohungen, die Identifizierung und Behebung von Sicherheitslücken, die Implementierung von Mechanismen für Authentifizierung und Autorisierung, die Berücksichtigung sicherheitsrelevanter Aspekte sowohl im Entwurf als auch in der Implementierung sowie die Generierung von Informationen für das Logging.
 
 # HZ 1
 
