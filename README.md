@@ -11,11 +11,10 @@ In der heutigen zunehmend vernetzten Welt sind Unternehmen und individuelle Benu
 #### Gefahr:
 Ransomware, oder Erpressungstrojaner, bedroht die Sicherheit von Computern durch die Verschlüsselung von Dateien. Sie gelangt oft über unsichere Systeme und infizierte E-Mail-Anhänge in die Systeme.
 
-#### Schutzmaßnahmen:
-
-    Sofortige Systemneuaufsetzung: Im Falle einer Infektion sollte das betroffene System umgehend neu aufgesetzt werden, um die Ransomware zu entfernen.
-    Datenwiederherstellung aus Backups: Wichtige Daten sollten aus zuverlässigen Backups wiederhergestellt werden, um den Verlust zu minimieren.
-    Fachkundige Unterstützung: Bei mangelnden Fachkenntnissen ist die Hilfe von Experten oder spezialisierten Unternehmen erforderlich, um die Bedrohung wirksam zu bekämpfen.
+#### **Schutzmaßnahmen:**
+1. *Sofortige Systemneuaufsetzung:* Im Falle einer Infektion sollte das betroffene System umgehend neu aufgesetzt werden, um die Ransomware zu entfernen.
+2. *Datenwiederherstellung aus Backups:* Wichtige Daten sollten aus zuverlässigen Backups wiederhergestellt werden, um den Verlust zu minimieren.
+3. *Fachkundige Unterstützung:* Bei mangelnden Fachkenntnissen ist die Hilfe von Experten oder spezialisierten Unternehmen erforderlich, um die Bedrohung wirksam zu bekämpfen.
 
 ### 2. Analyse:
 
