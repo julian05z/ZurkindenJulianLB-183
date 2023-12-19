@@ -27,21 +27,15 @@ Schutzmaßnahmen:
 2. Wenden Sie sich an die Polizei:* Bei Unsicherheit sollten Sie sich direkt an die Polizei wenden, um die Echtheit der erhaltenen Nachricht zu überprüfen.
 
 
-### 3. Gegenmaßnahmen:
+###Dubioser Webshop
 
-In meiner Analyse habe ich verschiedene Möglichkeiten besprochen, wie Organisationen und Einzelpersonen sich vor den genannten Gefahren schützen können. Diese Maßnahmen umfassen:
+Risiken:
+Bestellte Waren aus einem Webshop werden nicht geliefert, und die Kontaktangaben des Shops fehlen oder sind fehlerhaft. Im Internet existieren betrügerische Firmen und Verkäufer, die allein auf Ihr Geld abzielen. Ein Kauf bei unbekannten Webshops birgt immer ein gewisses Risiko.
 
-- **Code-Reviews:** Regelmäßige Überprüfung des Programmiercodes durch Teammitglieder, um potenzielle Schwachstellen und Sicherheitslücken zu identifizieren.
-
-- **Sichere Programmierpraktiken:** Einhaltung bewährter Methoden beim Schreiben von Code, um Sicherheitsrisiken zu minimieren. Dazu gehören das Validieren von Benutzereingaben, die Verwendung sicherer Bibliotheken und das Prinzip des "Least Privilege".
-
-- **Automatisierte Tests:** Implementierung von automatisierten Tests, um sicherzustellen, dass Änderungen im Code die Sicherheits- und Funktionsintegrität nicht beeinträchtigen.
-
-- **Regelmäßige Software-Updates:** Aktualisierung von Entwicklungsumgebungen, Frameworks und Bibliotheken, um von den neuesten Sicherheitspatches zu profitieren.
-
-- **Sicherheitsbewusstsein:** Schulungen für Entwickler, um das Bewusstsein für aktuelle Bedrohungen zu schärfen und sicherheitsrelevante Praktiken zu fördern.
-
-Diese Erkenntnisse sollen als Grundlage dienen, um eine umfassende Sicherheitsstrategie für die Programmierung und Entwicklung zu entwickeln. Das Ziel ist es, die Integrität von Codes, die Vertraulichkeit von Daten und die Verfügbarkeit von Anwendungen sicherzustellen.
+Schutzmaßnahmen:
+1. Fehlende oder fehlerhafte Kontaktangaben melden:* Wenn Kontaktinformationen fehlen oder unzuverlässig erscheinen, melden Sie den Webshop dem Staatssekretariat für Wirtschaft [hier](https://www.seco.admin.ch/seco/de/home/seco/Kontakt.html).
+2. Nachfragen bei Nicht-Lieferung:* Sollten bestellte Waren nicht geliefert werden, fragen Sie beim Shop nach. Nicht immer liegt Betrug vor; es könnte auch ein organisatorisches Problem sein.
+3.Versicherungsabdeckung prüfen:* Überprüfen Sie, ob der Kauf durch eine Versicherung abgedeckt ist (z. B. Kreditkarte, Trusted Webshops, usw.).
 
 
 # HZ 2
