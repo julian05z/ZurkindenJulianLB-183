@@ -6,9 +6,16 @@
 
 In der heutigen zunehmend vernetzten Welt sind Unternehmen und individuelle Benutzer einer ständig wachsenden Vielzahl von Cybersicherheitsbedrohungen ausgesetzt. Im Rahmen meiner Recherche zu aktuellen Gefahren habe ich mich intensiv mit verschiedenen Aspekten der Cybersicherheit auseinandergesetzt.
 
-### 1. Recherche:
+### Ransomware: Gefahr und Schutzmaßnahmen
 
-In meiner Recherche habe ich viele Infos zu den aktuellen Gefahren in der Cybersicherheit gesammelt. Das beinhaltet Sachen wie Malware (schädliche Software), Phishing (Betrugsversuche), Ransomware (Erpressungssoftware) und DDoS-Angriffe (Überlastungsangriffe). Dafür habe ich aktuelle Studien, Sicherheitsberichte und Fachartikel studiert, um gut zu verstehen, was für Bedrohungen das sind und wie groß das Problem ist.
+#### Gefahr:
+Ransomware, oder Erpressungstrojaner, bedroht die Sicherheit von Computern durch die Verschlüsselung von Dateien. Sie gelangt oft über unsichere Systeme und infizierte E-Mail-Anhänge in die Systeme.
+
+#### Schutzmaßnahmen:
+
+    Sofortige Systemneuaufsetzung: Im Falle einer Infektion sollte das betroffene System umgehend neu aufgesetzt werden, um die Ransomware zu entfernen.
+    Datenwiederherstellung aus Backups: Wichtige Daten sollten aus zuverlässigen Backups wiederhergestellt werden, um den Verlust zu minimieren.
+    Fachkundige Unterstützung: Bei mangelnden Fachkenntnissen ist die Hilfe von Experten oder spezialisierten Unternehmen erforderlich, um die Bedrohung wirksam zu bekämpfen.
 
 ### 2. Analyse:
 
