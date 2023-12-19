@@ -27,7 +27,7 @@ Schutzmaßnahmen:
 2. Wenden Sie sich an die Polizei:* Bei Unsicherheit sollten Sie sich direkt an die Polizei wenden, um die Echtheit der erhaltenen Nachricht zu überprüfen.
 
 
-###Dubioser Webshop
+### Dubioser Webshop
 
 Risiken:
 Bestellte Waren aus einem Webshop werden nicht geliefert, und die Kontaktangaben des Shops fehlen oder sind fehlerhaft. Im Internet existieren betrügerische Firmen und Verkäufer, die allein auf Ihr Geld abzielen. Ein Kauf bei unbekannten Webshops birgt immer ein gewisses Risiko.
