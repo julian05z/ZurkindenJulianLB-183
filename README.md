@@ -27,15 +27,19 @@ Schutzmaßnahmen:
 2. Wenden Sie sich an die Polizei:* Bei Unsicherheit sollten Sie sich direkt an die Polizei wenden, um die Echtheit der erhaltenen Nachricht zu überprüfen.
 
 
-### Dubioser Webshop
+### Betrügerische Jobangebote: Erkennen und Schützen
 
 Risiken:
-Bestellte Waren aus einem Webshop werden nicht geliefert, und die Kontaktangaben des Shops fehlen oder sind fehlerhaft. Im Internet existieren betrügerische Firmen und Verkäufer, die allein auf Ihr Geld abzielen. Ein Kauf bei unbekannten Webshops birgt immer ein gewisses Risiko.
+Meldungen zu betrügerischen Jobangeboten, die über Messaging-Dienste wie WhatsApp verbreitet werden. Angebliche Recruiting-Firmen locken mit unrealistischen Verdienstversprechen.
+
+Vorgehensweise:
+In gefälschten Stellenangeboten erfolgt der Erstkontakt über soziale Netzwerke, E-Mails oder Jobbörsen. Der Bewerbungsprozess wird dann über Instant Messaging fortgesetzt, wobei Bewerber mit überhöhten Verdienstversprechen angelockt werden. Die Aufgaben, wie das Verfassen von Bewertungen oder der Kauf von Produkten, stehen in keinem angemessenen Verhältnis zu den versprochenen Verdiensten. Nach der Rekrutierung werden Bewerber auf eine oft gefälschte Plattform weitergeleitet, wo angebliche "Lohnzahlungen" und "Prämien" abgerechnet werden sollen.
 
 Schutzmaßnahmen:
-1. Fehlende oder fehlerhafte Kontaktangaben melden:* Wenn Kontaktinformationen fehlen oder unzuverlässig erscheinen, melden Sie den Webshop dem Staatssekretariat für Wirtschaft [hier](https://www.seco.admin.ch/seco/de/home/seco/Kontakt.html).
-2. Nachfragen bei Nicht-Lieferung:* Sollten bestellte Waren nicht geliefert werden, fragen Sie beim Shop nach. Nicht immer liegt Betrug vor; es könnte auch ein organisatorisches Problem sein.
-3.Versicherungsabdeckung prüfen:* Überprüfen Sie, ob der Kauf durch eine Versicherung abgedeckt ist (z. B. Kreditkarte, Trusted Webshops, usw.).
+1. *Ignorieren Sie betrügerische Nachrichten:* Beachten Sie Nachrichten mit unrealistischen Stellenangeboten nicht.
+2. *Blockieren und Melden:* Nutzen Sie die in der Anwendung verfügbaren Funktionen zum Blockieren und Melden von betrügerischen Nachrichten.
+3. *Anzeige bei finanziellen Schäden:* Bei finanziellen Schäden empfiehlt das NCSC, Anzeige bei den kantonalen Strafverfolgungsbehörden zu erstatten.
+
 
 
 # HZ 2
