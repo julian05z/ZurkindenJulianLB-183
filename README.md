@@ -86,6 +86,11 @@ Nach dem schliessen dieser Sicherheitslücke:
 ![video](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/4d9f644d-1c29-499e-94a0-311880076ca9.gif)
 
 
+### Kritische Beurteilung
+
+Ich habe die Sicherheitslücke anhand SQL-Injection aufgezeigt und Maßnahmen dagegen implementiert, aber es gibt auch noch viele weitere Sicherheitlücken die nicht durch diese VErbesserung abedeckt sind. Cross-Site Scripting (XSS), das im Modul 183 behandelt wird und ähnlich abläuft. Es ermöglicht den Angreifern, bösartigen Code in Webseiten einzufügen, der dann von anderen Nutzern ausgeführt wird.
+
+
 # HZ 3
 
 ## Umsetzung von Mechanismen für die Authentifizierung und Autorisierung
