@@ -15,9 +15,17 @@ Ransomware, oder Erpressungstrojaner, bedroht die Sicherheit von Computern durch
 2. Datenwiederherstellung aus Backups:* Wichtige Daten sollten aus zuverlässigen Backups wiederhergestellt werden, um den Verlust zu minimieren.
 3. Fachkundige Unterstützung:* Bei mangelnden Fachkenntnissen ist die Hilfe von Experten oder spezialisierten Unternehmen erforderlich, um die Bedrohung wirksam zu bekämpfen.
 
-### 2. Analyse:
+### Gefälschte Drohmails von Behörden: Betrug erkennen und schützen
 
-Ich habe genau untersucht, wie sich diese Bedrohungen auf verschiedene Arten von Computern und Netzwerken auswirken. Dabei ist mir aufgefallen, dass Malware die wichtigen Dateien auf einem System gefährdet, Phishing die Geheimhaltung von Benutzerinformationen stört, Ransomware zu finanziellen Verlusten führen kann und DDoS-Angriffe die Verfügbarkeit von Online-Diensten beeinträchtigen können. Diese Erkenntnisse haben mir gezeigt, wie wichtig es ist, rasch geeignete Sicherheitsmaßnahmen zu ergreifen.
+Gefälschte Drohmails von Behörden, auch als Fake Extortion E-Mails bekannt, täuschen vor, dass die angeschriebene Person schwerwiegende strafrechtliche Vergehen begangen habe. Die Anklage könne angeblich nur durch eine Geldzahlung fallengelassen werden.
+
+Vorgehensweise:
+Der Empfänger wird oft fälschlicherweise beschuldigt, kinderpornographisches Material konsumiert zu haben. Eine Frist wird gesetzt, um eine schriftliche Begründung per E-Mail einzureichen. Das Opfer wird zur Zahlung einer Kaution aufgefordert, um einer angeblichen Verhaftung zu entgehen. Die E-Mail täuscht durch offizielle Aufmachung vor, von Strafverfolgungsbehörden wie fedpol, Europol, Interpol oder einer kantonalen Polizei zu stammen. Absender und Dokumente sind jedoch gefälscht, und die Kommunikation erfolgt über private E-Mail-Adressen.
+
+Schutzmaßnahmen:
+1. Ignorieren Sie Fake-Extortion-E-Mails:* Lassen Sie sich nicht einschüchtern und reagieren Sie nicht auf unbegründete Forderungen.
+2. Wenden Sie sich an die Polizei:* Bei Unsicherheit sollten Sie sich direkt an die Polizei wenden, um die Echtheit der erhaltenen Nachricht zu überprüfen.
+
 
 ### 3. Gegenmaßnahmen:
 
