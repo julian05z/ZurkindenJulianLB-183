@@ -236,6 +236,14 @@ private string validateNewPasswort(string newPassword)
 ![screeenHZ4](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/f498abb2-9c52-4c09-8042-da6e3679d2cb)
 
 
+
+### Kritische Bewertung
+
+Um das Erreichen dieses Handlungsziels nachzuweisen, bin ich nur auf den Human Factor in Bezug auf die Passwortwahl eingegangen. Der Human Factor zeigt in der Praxis noch weitere Sicherheitsrisiken, z.B. das Öffnen von Phishing-E-Mails oder das Vernachlässigen von Sicherheitsrichtlinien.
+
+
+
+
 # HZ 5
 
 ## Informationen für Auditing und Logging generieren. Auswertungen und Alarme definieren und implementieren.
@@ -279,3 +287,6 @@ In der konsole sind nun die Log Informationen ersichtlich
 ![screenshotHZ5](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/0ceec89e-7c09-4556-8c59-ef5607491749)
 
 ![screeenhz5sucess](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/9541da29-60d4-41c9-bdbd-ba0c6062973b)
+
+### Kritische Bewertung
+Um die Anwendung und Implementierung von Logging zu beweisen, habe ich die Logs für das Login erstellt und aufgezeigt. Es gibt in der Praxis aber noch weiteres Logging, das für den Entwickler wichtig sein könnte, das mein Artefakt nicht einschließt. Ein wichtiger Aspekt für das Logging wäre das Löschen oder Bearbeiten von Einträgen. Wenn z.B. wichtige Informationen geändert werden, kann man nachverfolgen, wer diese verändert hat.
