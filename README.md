@@ -179,7 +179,7 @@ Der Codeabschnitt zeigt die Autorisierung in einer Applikation. Es überprüft, 
 
 ### Kritische Bewertung
 
-In meinem Projekt erläutere ich die Zwei-Faktor-Authentifizierung für sichere Anmeldungen sowie die Autorisierung für die Delete-Funktion, um sicherzustellen, dass nur Administratoren bestimmte Aktionen durchführen können. Des Weiteren demonstriere ich die praktische Anwendung von JWTs, wie im Modul besprochen, als effizientes Mittel zur Authentifizierung und Autorisierung in der Anwendung. Es besteht auch die Möglichkeit, beide Ansätze kombiniert einzusetzen.
+In meinem Projekt erläutere ich die Zwei-Faktor-Authentifizierung für sichere Anmeldungen sowie die Autorisierung für die Edit und Delete-Funktion, um sicherzustellen, dass nur der Administrator bestimmte Aktionen durchführen können oder der ersetller des Eintrags. Es gibt auch noch weitere methoden um eine Authentifizrung zu gewährleisten, welche ich nicht angesprochen habe. Eine davon wäre die verwendung von JWT. Das Token enthält Informationen über den Benutzer und kann dazu verwendet werden, seine Identität zu überprüfen, ohne dass bei jeder Anfrage Benutzername und Passwort erneut übermittelt werden müssen.
 
 
 # HZ 4
