@@ -298,3 +298,9 @@ In der konsole sind nun die Log Informationen ersichtlich
 
 ### Kritische Bewertung
 Um die Anwendung und Implementierung von Logging zu beweisen, habe ich die Logs für das Login erstellt und aufgezeigt. Es gibt in der Praxis aber noch weiteres Logging, das für den Entwickler wichtig sein könnte, das mein Artefakt nicht einschließt. Ein wichtiger Aspekt für das Logging wäre das Löschen oder Bearbeiten von Einträgen. Wenn z.B. wichtige Informationen geändert werden, kann man nachverfolgen, wer diese verändert hat.
+
+# Selbsteinschätzung
+
+Ich war von Anfang an sehr gespannt und interessiert an diesem Modul, da mich der Bereich der Cybersecurity in der Informatik bereits seit längerer Zeit fasziniert. Während der Bearbeitung des Moduls hatte ich einige Schwierigkeiten und konnte mit dem Bearbeitung der Aufträge nicht immer ganz mithalten. Als wir begonnen haben, an der LB zu arbeiten, konnte ich aber mein Wissen gut einsetzen. Durch das Erreichen der einzelnen Handlungsziele habe ich genau verstanden, was in den verschiedenen Schritten passiert und warum. Das hat es mir ermöglicht, während des Moduls viel dazuzulernen. Die Auseinandersetzung mit jedem Thema für sich hat meine Fähigkeiten verbessert und mir geholfen, dies besser zu verstehen. Ich bin mit meiner Arbeit zufrieden und habe dieses Portfolio mit Freude erstellt. Während der Leistungsbeurteilung sind keine größeren Probleme aufgetreten, und ich kann abschließend sagen, dass ich den Stoff in diesem Modul gut verstanden habe.
+
+
