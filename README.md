@@ -49,7 +49,7 @@ Die oben aufgezeigten Bedrohungen und Schutzmaßnahmen sind nur die aktuellen To
 
 ## Sicherheitslücken und ihre Ursachen in einer Applikation erkennen können. Gegenmassnahmen vorschlagen und implementieren können.
 
-Ich habe mich in meinem fall auf sicherheits lücken beim Login/Authentifirzierung fokussiert und welche lücken sich im Programm auffinden. 
+Ich habe mich in meinem Fall auf Sicherheitslücken beim Login/Authentifizierung fokussiert und welche Lücken sich im Programm finden lassen.
 
 ![grafik](https://github.com/julian05z/ZurkindenJulianLB-183/assets/89130623/6d864f0d-82d3-4122-a5ef-3742d108b3fe)
 
@@ -83,7 +83,7 @@ var passwordParam = new SqlParameter("@Password", MD5Helper.ComputeMD5Hash(reque
 
 User? user = _context.Users.FromSqlRaw(sql, usernameParam, passwordParam).FirstOrDefault();
 ```
-Nach dem schliessen dieser Sicherheitslücke:
+Nach dem Schliessen dieser Sicherheitslücke:
 
 
 
@@ -92,12 +92,11 @@ Nach dem schliessen dieser Sicherheitslücke:
 
 ### Kritische Beurteilung
 
-Ich habe die Sicherheitslücke anhand SQL-Injection aufgezeigt und Maßnahmen dagegen implementiert, aber es gibt auch noch viele weitere Sicherheitlücken die nicht durch diese VErbesserung abedeckt sind. Cross-Site Scripting (XSS), das im Modul 183 behandelt wird und ähnlich abläuft. Es ermöglicht den Angreifern, bösartigen Code in Webseiten einzufügen, der dann von anderen Nutzern ausgeführt wird.
-
+Ich habe die Sicherheitslücke anhand SQL-Injection aufgezeigt und Maßnahmen dagegen implementiert, aber es gibt auch noch viele weitere Sicherheitslücken, die nicht durch diese Verbesserung abgedeckt sind. Cross-Site Scripting (XSS), das im Modul 183 behandelt wird und ähnlich abläuft, ermöglicht den Angreifern, bösartigen Code in Webseiten einzufügen, der dann von anderen Nutzern ausgeführt wird.
 
 # HZ 3
 
-## Umsetzung von Mechanismen für die Authentifizierung und Autorisierung
+## Umsetzung von Mechanismen für die Authentifizierung und Autorisierung:
 
 Die Applikation wurde mit einer Zwei-Faktor-Authentifizierung ausgestattet, die es dem Benutzer ermöglicht, diese nach der Anmeldung zu aktivieren und somit zu verwenden.
 
@@ -120,7 +119,7 @@ Wenn man sich nun das nächste Mal einloggen möchte, muss man sein normales Log
 
 
 
-### Wichtige Code ausschnitte von der Implementierung:
+### Wichtige Codeausschnitte von der Implementierung:
 
 ``` csharp
 public ActionResult<Auth2FADto> Enable2FA()
