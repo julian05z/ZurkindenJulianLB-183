@@ -37,7 +37,9 @@ Schutzmaßnahmen:
 2. Blockieren und Melden:* Nutzen Sie die in der Anwendung verfügbaren Funktionen zum Blockieren und Melden von betrügerischen Nachrichten.
 3. Anzeige bei finanziellen Schäden:* Bei finanziellen Schäden empfiehlt das NCSC, Anzeige bei den kantonalen Strafverfolgungsbehörden zu erstatten.
 
+### Kritische Beurteiliung
 
+Die oben aufgezeigten BEdrohungen sind nur die aktuellen Top bedrohungen in diesem Monat. Es gibt noch viele weitere Bedrohungen in der Cybersicherheit https://www.ncsc.admin.ch/ncsc/de/home/cyberbedrohungen.html
 
 # HZ 2
 
