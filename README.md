@@ -19,7 +19,7 @@ Ransomware, oder Erpressungstrojaner, bedroht die Sicherheit von Computern durch
 
 Gefälschte Drohmails von Behörden, auch als Fake Extortion E-Mails bekannt, täuschen vor, dass die angeschriebene Person schwerwiegende strafrechtliche Vergehen begangen habe. Die Anklage könne angeblich nur durch eine Geldzahlung fallengelassen werden.
 
-Vorgehensweise:
+Vorgehensweise:**
 Der Empfänger wird oft fälschlicherweise beschuldigt, kinderpornographisches Material konsumiert zu haben. Eine Frist wird gesetzt, um eine schriftliche Begründung per E-Mail einzureichen. Das Opfer wird zur Zahlung einer Kaution aufgefordert, um einer angeblichen Verhaftung zu entgehen. Die E-Mail täuscht durch offizielle Aufmachung vor, von Strafverfolgungsbehörden wie fedpol, Europol, Interpol oder einer kantonalen Polizei zu stammen. Absender und Dokumente sind jedoch gefälscht, und die Kommunikation erfolgt über private E-Mail-Adressen.
 
 Schutzmaßnahmen:
