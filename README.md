@@ -281,6 +281,8 @@ public ActionResult<User> Login(LoginDto request)
 }
 
 ```
+Falls ein Benutzer gefunden wird und ein erfolgreicher Login erkannt, wird ein entsprechender Log-Eintrag mit Informationen zum erfolgreichen Login erstellt (_logger.LogInformation). Falls kein Benutzer gefunden wird und das Login fehlschlägt, wird ein entsprechender Warn-Log-Eintrag erstellt.
+
 
 In der konsole sind nun die Log Informationen ersichtlich
 
